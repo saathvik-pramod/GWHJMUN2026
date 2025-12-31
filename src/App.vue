@@ -21,7 +21,7 @@ watch(
     <header class="navbar">
         <div class="desktop-nav" v-if="width>450">
             <ul class="links">    
-                <li><RouterLink to="/"><img src="/assets/gwhmun_logo.png" class="navbar-logo"></RouterLink></li>
+                <li><RouterLink to="/"><img src="/assets/GWH_JMUN.jpg" class="navbar-logo"></RouterLink></li>
                 <li><RouterLink to="/">Home</RouterLink></li>
                 <!--<li><RouterLink to="/team">Team</RouterLink></li>-->
                 <li><RouterLink to="/committees">Committees</RouterLink></li>
@@ -31,7 +31,7 @@ watch(
             </ul>
         </div>
         <div class="mobile-nav" v-else>
-            <RouterLink to="/"><img src="/assets/gwhmun_logo.png" class="navbar-logo"></RouterLink>
+            <RouterLink to="/"><img src="/assets/GWH_JMUN.jpg" class="navbar-logo"></RouterLink>
             <button class="nav-show" @click="mobile_menu_shown=true"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg></button>
         </div>
     </header>
@@ -48,15 +48,15 @@ watch(
         </div>
     <RouterView/>
     <footer>
-        <img src="/assets/gwhmun_logo.png" class="footer-logo">
+        <img src="/assets/GWH_JMUN.jpg" class="footer-logo">
         <div class="footer-info">
             <h3 class="subhead">Location</h3>
             <div><a href="https://www.google.com/maps/place/Greenwood+High+-+Sarjapur/@12.8995914,77.7464884,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae0d59425e7257:0xb036140cfb4656dd!8m2!3d12.8995862!4d77.7490633!16s%2Fm%2F0wbm4qb?entry=tts&shorturl=1">Greenwood High School Sarjapur</a></div>
         </div>
         <div class="footer-info">
             <h3 class="subhead"> Contact</h3>
-            <div>Secretary General - <a href="mailto:amisha.sharma.27102008@gmail.com">Amisha Sharma</a></div>
-            <div>Director General - <a href="mailto:varun070052@greenwoodhigh.edu.in">Varun Iyer</a></div>
+            <div>Secretary General - <a href="mailto:suhani022478@greenwoodhigh.edu.in">Suhani Singh</a></div>
+            <div>Director General - <a href="mailto:aarya022620@greenwoodhigh.edu.in">Aarya Poddar</a></div>
         </div>
     </footer>
 </template>
@@ -93,6 +93,7 @@ header.navbar {
 .navbar-logo {
     height: 45px;
     width: auto;
+    object-fit: contain;
 }
 
 .mobile-menu {
@@ -159,19 +160,11 @@ footer {
 img.footer-logo {
     height: 100px;
     width: auto;
+    object-fit: contain;
 }
 
 .footer-info {
     margin: 10px;
     text-align: center;
-}
-
-.footer-info > h3 {
-    margin: 5px;
-}
-
-footer a {
-    text-decoration: none;
-    color: #b4d0d4;
 }
 </style>
