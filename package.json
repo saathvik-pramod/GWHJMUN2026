@@ -1,0 +1,25 @@
+{
+  "name": "gwh-events",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@unhead/vue": "^1.8.9",
+    "embla-carousel-autoplay": "^8.0.0-rc18",
+    "embla-carousel-vue": "^8.0.0-rc18",
+    "vue": "^3.3.11",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@vitejs/plugin-vue": "^4.5.2",
+    "typescript": "^5.2.2",
+    "vite": "^5.4.6",
+    "vue-tsc": "^1.8.25"
+  }
+}
