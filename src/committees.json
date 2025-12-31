@@ -1,180 +1,173 @@
-{"list":[
+{
+  "list": [
     {
-        "name": "United Nations Security Council (UNSC)",
-        "id": "unsc",
-        "agenda": "Agenda : Addressing the 2001 U.S.-led invasion of Afghanistan and its impact on global peace and sovereignty. \n \nFreeze Date : November 13th , 2001",
-        "chair": {
-          "name": "Varun Iyer",
-          "desc": "'clausula rebus sic stantibus'",
-          "imgpath": "/assets/eb_pics/UNSC/Varun Iyer.jpg"
-        },
-        "vicechair": {
-          "name": "Ayaan Viswanathan",
-          "desc": "“The best revenge is to be unlike him who performed the injury.” \n\n Ayaan has an avid passion for munning and has done so for a while now. Getting a near placement record in countless MUNS , in MUNS such as TISBMUN , DEMUN , DNMUN , AND DMUN. He sometimes makes mistakes , stuttering and saying the wrong thing but takes it as a great opportunity to learn and grow better as a delegate and as a person. His discipline and hard work doesn't just show in MUN but in everything else he does. Apart from MUN you can find him at the gym or you won't find him at all. ",
-          "imgpath": "/assets/eb_pics/UNSC/Ayan Vishwanathan.png"
-        },
-        "moderator": null,
-        "na": false
-      },
-      {
-        "name": "United Nations Office on Drugs and Crime (UNODC)",
-        "id": "unodc",
-        "agenda": "Combating the transnational trafficking of illicit firearms",
-        "chair": {
-          "name": "Varshini Janakiraman",
-          "desc": "“Politicians and diapers must be changed often, and for the same reason.” - Mark Twain.\n\n Varshini, a current 10th grader, began her MUN journey around two years ago and has since participated in over 20 MUN conferences, both as a delegate and as an Executive Board member. Her accolades include placements at prestigious conferences such as TISBMUN, SJUMUN, DEENSMUN, NCFEMUN, FMUN, DEMUN, NPSHMUN, CLMUN and DWMUN, along with a Best Delegate award at DOCMUN (Christ University) and Executive Board positions at SOIMUN and Candor MUN. If you somehow manage to find her awake or not down with a headache while professionally hating on science, you might catch her on a swing listening to music in a park or satisfying her extremely aggressive pizza and momo addiction.",
-          "imgpath": "/assets/eb_pics/UNODC/Varshini.png"
-        },
-        "vicechair": {
-          "name": "Mihir Kulkarni",
-          "desc": "“Domestic policy can only defeat us; foreign policy can kill us.” - John F. Kennedy. \n\nMihir is an avid MUNner who has been to 7 MUNs, including GWHMUN, DNMUN, DMUN, OAKMUN and more,  placing in nearly every conference. He first started in SOCHUM, but since then has grown to enjoy UNSCs and DISECs, and loves learning law to the greatest extent that he can. Other than MUNs he spends his time playing guitar and listening to music.",
-          "imgpath": "/assets/eb_pics/UNODC/Mihir Kulkarni.png"
-        },
-        "moderator": null,
-        "na": false
-      },
-      {
-        "name": "United Nations Human Rights Council (UNHRC)",
-        "id": "unhrc",
-        "agenda": "Discussing extrajudicial killings with an emphasis on ethnic cleansing of minorities.",
-        "chair": {
-          "name": "Shreya Prakash",
-          "desc": "“The future belongs to those who believe in the beauty of their dreams.” – Eleanor Roosevelt. \n\nWith an ebullient approach to MUNs and a confident presence in debates and discussions, Shreya has made a place for herself. An avid reader, writer, swimmer, and movie enthusiast, Shreya cherishes the experience of traveling like no one else. Rest assured, she will welcome any chance to share a laugh, and you can rely on her to be attentive and approachable.",
-          "imgpath": "/assets/eb_pics/UNHRC/Shreya Prakash.png"
-        },
-        "vicechair": {
-          "name": "Muskaan Malik",
-          "desc": "“We’re eyeball to eyeball, and I think the other fellow just blinked” - Dean Rusk. \n\nA charismatic and enthusiastic individual, Muskaan Malik is a storm of legalities covered with friendly smiles. She has placed in prestigious conferences such CANMUN, DNMUN and DEMUN. Although she is normally the shortest in the room, crossing her in committee is a... let's say interesting experience. Known for her willingness to strike up an argument with anyone and a tendency to roll her eyes at delegates(she promises she's nice). \n\nPresenting to you the Vice Chair for the Human Rights Council",
-          "imgpath": "/assets/eb_pics/UNHRC/Muskaan Malik.png"
-        },
-        "vicechair2": {
-          "name": "Aditi Kureel",
-          "desc": "“Those who tell the stories rule society.” - Plato. \n\nWith a fascination with all things ambivalent, it was a given Aditi would get into MUNs. Beginning in 9th grade, her MUN journey would help her find a voice, like-minded company, and a newfound passion for the humanities. Be it attempting to assassinate Amit Shah or speaking out against nuclear proliferation, Aditi's time on the circuit has not only made for good stories but also shaped her respect for nuance, cooperation, and debate. So, now she hopes she can inspire others to find a voice and passion for debate and the humanities as she once had and have another story to talk about.",
-          "imgpath": "/assets/eb_pics/UNHRC/Aditi Kureel.png"
-        },
-        "moderator": null,
-        "na": false
-      },
-      {
-        "name": "Paris Peace Conference",
-        "id": "ppc",
-        "agenda": "Negotiating the Post-War Settlement: Addressing Peace, Reparations, and the Future of Europe. Freeze Date: January 18, 1919",
-        "chair": {
-          "name": "Saathvik Beri",
-          "desc": "Saathvik Beri is an avid munner and history enthusiast. Having participated and won awards in numerous crisis and historical committees, Saathvik will be the head chair person for the Paris Peace conference.",
-          "imgpath": "/assets/eb_pics/Paris Peace Conference/Saathvik Beri.jpg"
-        },
-        "vicechair": {
-          "name": "Eric Leene",
-          "desc": "“Sometimes I like to hang out with people who aren’t that bright, you know, just to see how the other half lives.” - Mike Ross.\n\n Wit, skills and passion is everything that Eric has to be an energetic delegate and avid MUNner. In any committee, he is a force to be reckoned with. His lobbying and theatrics have given him great success in the modern MUN circuit. He wields charm and intellect like weapons as he commands the room consistently with his electric personality. He is excited to help MUNNERS explore the world of MUN; and give the committee a fun, and positive experience; while driving thoughtful discussions and building innovative solutions.",
-          "imgpath": "/assets/eb_pics/Paris Peace Conference/Eric Leene.png"
-        },
-        "moderator": null,
-        "na": false
-      },
-    {
-        "name": "Disarmament and International Security Committee (DISEC)",
-        "id": "disec",
-        "agenda": "Addressing the Militarization of Artificial Intelligence",
-        "chair": {
-          "name": "Amisha Sharma",
-          "desc": "\"If we keep burying each other in the same dirt we fight over, who will be left to plant flowers?\" - Erin Van Vuren. \n\n Amisha Sharma, the Head Chair of DISEC, is an 11th grader who began MUNning right off the bat as she entered high school, starting off way too strong with HMUN. Shaking off the initial trauma, she’s now attended nearly 20 MUNs as both a delegate and an EB member, collecting Best Delegate awards at various conferences all over Bangalore, including GEARMUN, DEMUN (twice), and BJCMUN, topping it all off as an AD for HMUN. Known for her pages and pages of research, meticulously written documentation, and uncanny flair for writing, she’s certainly made a name for herself in the circuit. She expects nothing less than perfection from her delegates, but is always happy to guide them in getting there!",
-          "imgpath": "/assets/eb_pics/DISEC/Amisha Sharma.jpg"
-        },
-        "vicechair": {
-          "name": "Avika Malik",
-          "desc": "“All war is a symptom of man’s failure as a thinking animal” - John Steinbeck. \n\nWith her vibrant personality and confident attitude Avika is making a name for herself in the MUN community. She has gained vast experience through attending prestigious conferences including OAKMUN, DEMUN and DMUN. Through her dynamic disposition she is sure to make an impression on every committee she walks into. Beware that her standards for committee are as high as the black heels she wears. Committee is certainly going to be interesting. Presenting the vice chair of the disarmament committee, Avika Malik.",
-          "imgpath": "/assets/eb_pics/DISEC/Avika Malik.png"
-        },
-        "vicechair2": {
-          "name": "Siddhanth Singh",
-          "desc": "With 6 MUNs under his belt, Siddhant brings a lot of experience and dedication to the table. His sheer courage allows him to deliver speeches that silence the biggest of delegates. Outside MUNs, you can see him shooting hoops, entertaining himself with video games, and hitting the gym.",
-          "imgpath": "/assets/eb_pics/DISEC/Siddhant.png"
-        },
-        "moderator": null,
-        "na": false
-    },
-    {
-      "name": "Historical International Atomic Energy Agency (H-IAEA)",
-      "id": "hiaea",
-      "agenda": "Discussing Nuclear disasters with special reference to the Fukushima Incident. Freeze Date - April 2012",
+      "name": "United Nations Security Council (UNSC)",
+      "id": "unsc",
+      "agenda": "Addressing the rise of violent extremist activity and instability in the Sahel region",
       "chair": {
-        "name": "Vipran Vasan",
-        "desc": "Vipran is a passionate and accomplished Model UN delegate and EB member. Having done over 15 MUN conferences, he brings his expertise and accolades of both crisis and general assembly committees to the table. Vipran's journey in the world of Model United Nations began as a passionate student delegate. Armed with a fervour for international relations, diplomacy, and public speaking, Vipran quickly established a reputation for his sharp intellect and persuasive oratory. This dedication led him to participate in MUN conferences across the globe, honing his skills and expanding his knowledge on various global issues. Vipran also has a background in debating and public speaking which provides him with a unique perspective on global issues and international relations. Aside from MUNs, he has a diverse range of interests including Physics, Mathematics, Video Games, and Sports.",
-        "imgpath": "/assets/eb_pics/H-IAEA/Vipran Vasan.png"
+        "name": "Garvit Shah",
+        "desc": "",
+        "imgpath": "/assets/eb_pics/UNSC/Garvit S.jpg"
       },
       "vicechair": {
-        "name": "Nihar Sreeram",
-        "desc": "Nihar Sreeram is a fervent Model United Nations delegate. Having done over 8 conferences, including CANMUN, BJCMUN, CISMUN and HMUN, he has excelled in both crisis and general assembly committees. Nihar began his journey in 9th as a zealous student delegate, focusing on scientific and economic solutions over purely legal answers. His dedication led him to participate in conferences around the globe, learning everything he could about the modern world and the issues that plague it. Outside of MUNs, you can find him researching some obscure phenomena or playing the newest Minecraft update.",
-        "imgpath": "/assets/eb_pics/H-IAEA/Nihar Sreeram.jpg"
+        "name": "Neil A",
+        "desc": "“War does not determine who is right — only who is left.” — Bertrand Russell\n\nWith placements across major conferences such as GWHMUN, SNISMUN, CANMUN, and GWHJMUN, he approaches the United Nations Security Council with a purpose, structure, and consequence. The UNSC is a rigorously competitive committee where legal clarity and structured argumentation are essential. Have your legal groundwork sorted, stay sharp, and lock in—most importantly, enjoy the process.",
+        "imgpath": "/assets/eb_pics/UNSC/Neil A.jpg"
+      },
+      "moderator": {
+        "name": "Tarun Chetan",
+        "desc": "Life is this. I like this.",
+        "imgpath": "/assets/eb_pics/UNSC/Tarun C.jpg"
+      },
+      "na": false
+    },
+
+    {
+      "name": "United Nations Human Rights Council (UNHRC)",
+      "id": "unhrc",
+      "agenda": "Addressing Human Rights Violations Amid the Global Expansion of Autonomous Surveillance Systems",
+      "chair": {
+        "name": "Suhani Singh",
+        "desc": "“Wit is educated insolence” – Aristotle",
+        "imgpath": "/assets/eb_pics/UNHRC/Suhani S.jpg"
+      },
+      "vicechair": {
+        "name": "Yash Dak",
+        "desc": "Veni, Vidi, Veci",
+        "imgpath": "/assets/eb_pics/UNHRC/Yash Dak.jpg"
       },
       "vicechair2": {
-        "name": "Navaneeth Srinath",
-        "desc": "“I’m a star, how could I not shine?” - Kanye West. \n\nNavaneeth is a passionate MUNer, accomplishing feats such as 2 Best Delegates, and a near perfect record in the span of 8 MUNs. Although Mainly a Crisis Del, He has ample experience and accolades on General Assemblies. What pushed him the most to pursue more MUNs is the ability to ‘change the world’ and have the power to harness solutions. Aside from MUNs, Navaneeth boasts other interests in Public Speaking, Debating, Writing, Drama and Photography.",
-        "imgpath": "/assets/eb_pics/H-IAEA/Navaneeth.png"
+        "name": "Daksh A",
+        "desc": "\"All of us do not have equal talent. But, all of us have an equal opportunity to develop our talents.\" - A.P.J. Abdul Kalam\n\nDaksh is a passionate and active MUNner who has been munning for over 3 years and has placed in prestigious conferences such as CANMUN, INYP, and GWHMUN. Coincidentally, Daksh began his MUN career at GWHJMUN in the same committee he is chairing this year, UNHRC. Apart from MUNs Daksh loves to code, has developed his own apps and has a very deep interest in circuitry and physics.",
+        "imgpath": "/assets/eb_pics/UNHRC/Daksh A.jpg"
       },
       "moderator": null,
       "na": false
     },
+
     {
-        "name": "United Nations Environment Programme (UNEP)",
-        "id": "unep",
-        "agenda": "Evaluating our progress towards meeting the SDGs by 2030",
-        "chair": {
-          "name": "Sunay Mittal",
-          "desc": "“Not every action requires a reaction.” \n\n Known for his controversial remarks and dramatic fanatics in committee, his thundering speeches make sure he doesn't go home forgotten. As an inquisitive, unpredictable and confident Delegate, Sunay believes that a portfolio doesn't determine awards, thinner ties are better and a firm handshake goes a long way. Having started his career with a nightmare of a first Mun, Sunay makes sure that all delegates cherish the time they spend in his committee.",
-          "imgpath": "/assets/eb_pics/UNEP/Sunay Mittal.png"
-        },
-        "vicechair": {
-          "name": "Shashrik Ranjith",
-          "desc": "“I think I'm cool. That's all that matters.” - Tyler, The Creator. \n\nShashrik is a passionate and lively MUNner, who has been munning for over 2 year and has been to exactly 10 MUNs, such as DMUN, DNMUN, GWHMUN and DeMUN, he has also placed in more than half of his MUNs. Ironically Shashrik began his MUN career at GWHJMUN in the same committee he is chairing this year, UNEP. Other than MUNs, He enjoys playing and following sports such as badminton and basketball. He is an avid coder that has placed in GWH synthacks and TISBhacks, and he also loves music. An overall fan of innovative solutions, debates and chaos.",
-          "imgpath": "/assets/eb_pics/UNEP/Shashrik Ranjith.png"
-        },
-        "vicechair2": {
-          "name": "Anaahira Bansod",
-          "desc": "“All the world’s a stage” - Shakespeare. \n\nAnaahira is a powerhouse of passion and creativity. A spirited MUN enthusiast, she’s rocked the stage in three theatre productions, pens her experiences in poetry, and has a flair for art and design.",
-          "imgpath": "/assets/eb_pics/UNEP/Anaahira.png"
-        },
-        "moderator": null,
-        "na": false
+      "name": "United Nations General Assembly (UNGA)",
+      "id": "unga",
+      "agenda": "Strengthening UN coordinated measures to manage the escalation of proxy conflicts",
+      "chair": {
+        "name": "Aarya Poddar",
+        "desc": "“What that would mean is not for me to explain to you, because you yourself understand perfectly of what terrible forces our countries dispose.” - Nikita S Khrushchev",
+        "imgpath": "/assets/eb_pics/UNGA/Aarya P.jpg"
       },
-      {
-        "name": "All India Political Parties Meet (AIPPM)",
-        "id": "aippm",
-        "agenda": "Reviewing Article 19(1)(a) of the Indian Constitution and the effect of the UAPA on free speech",
-        "chair": {
-          "name": "Yajwin Krishna",
-          "desc": "“Democracy is overrated” - Frank Underwood. \n\n Yajwin is an avid MUNer and a buff for international relations and global politics. He has learned to be quite the debater since he is an RCB fan and uses that to argue about anything and everything. Outside the world of debate and Model UN, Yajwin loves playing cricket and has an intrinsic love for pets. People say he is approachable, so go and strike a conversation with him anytime; I am sure it will be worth it!",
-          "imgpath": "/assets/eb_pics/AIPPM/Yajwin.png"
-        },
-        "vicechair": {
-          "name": "Parth Bakshi",
-          "desc": "Everything I'm not made me everything I am - Kanye west \n\n Parth, a debate enthusiast has always been engaged with Model UN, Having accumulated 15 conferences worth of experience. He has a keen interest in Indian politics and in his free time enjoys playing basketball and listening to music. \n\n Presenting to you the vice chair for AIPPM",
-          "imgpath": "/assets/eb_pics/AIPPM/parth.jpg"
-        },
-        "vicechair2": {
-          "name": "Shriya Ramakrishna",
-          "desc": "Having an argumentative streak and a love for all things controversial, Shriya did her first MUN in 9th grade as Pakistan in a UNODC (the perfect role). After experiencing the ups and downs of the committee, the diversity of delegates and excitement of crisis, she soon realized that this was the perfect activity for her. After her first AIPPM as Priyanka Gandhi, she knew that the importance, drama, quick thinking situations and pressure of an Indian political committee sparked a fire in her to fight for her party and their goals. Shriya now hopes to carry on the interest in Indian politics in MUNs and also wants to inspire new delegates to embrace the ever changing climate of the AIPPM.",
-          "imgpath": "/assets/eb_pics/AIPPM/Shriya.png"
-        },
-        "moderator": null,
-        "na": false
+      "vicechair": {
+        "name": "Nimit A",
+        "desc": "“I never lose. I either win or learn.” — Nelson Mandela\n\nKnown for his controversial remarks and dramatic fanatics in committee, his thundering speeches make sure he doesn't go home forgotten. As an inquisitive, unpredictable and confident delegate, Nimit believes that a portfolio doesn't determine awards, thinner ties are better and a firm handshake goes a long way. Having started his career with a nightmare of a first MUN, Nimit makes sure that all delegates cherish the time they spend in his committee.",
+        "imgpath": "/assets/eb_pics/UNGA/Nimit A.jpg"
       },
+      "moderator": {
+        "name": "Adhrit G",
+        "desc": "“br is nt shkspr”\n\nAdhrit is an avid and passionate MUNner with two years of experience. He has attended nine MUNs, having debated at prestigious conferences like GWHMUN, CISMUN, and GEARMUN. His passion extends beyond MUNing, with him playing the drums and having a keen interest in hiking.",
+        "imgpath": "/assets/eb_pics/UNGA/Adhrit G.jpg"
+      },
+      "na": false
+    },
+
     {
-        "name": "Continuous Crisis Committee (CCC)",
-        "id": "ccc",
-        "agenda": "The six day war; Freeze Date: 4th June 1967",
-        "chair": {
-          "name": "Kaustubh Krishna",
-          "desc": "“It's good, now we can go home.” - Nikola Jokic. \n\nKaustubh is an enigmatic persona with his fair share of experience in the circuit, with a knack for problem solving and critical thinking, both of which are attributes that fan the flame of his affinity towards crisis committees. He acknowledges the importance of both factual depth as well as stringing words right, and is also someone who's willing to stay up all night to get jobs done. Every minute spent with a gavel in hand is a fulfilling experience for him. He can't wait to get into the octagon of the CCC.",
-          "imgpath": "/assets/eb_pics/CCC/Kaustubh Krishna.png"
-        },
-        "vicechair": {
-          "name": "Sasha Roshan",
-          "desc": "“Know you a god even when they say you ain't.” \n\nFrom the screen to the ring, to the pen, to the circuit, you will never find a delegate more charismatic and innovative than Sasha Roshan. From transforming the United States of America into the Land of Bhojpuri to throwing paper airplanes during her speeches, committee sessions will never be boring with her around. With placements at prestigious conferences like TISBMUN, DMUN, and HMUN, she is a silver-tongued storm of legalities. Your crisis updates are sure to be as wild and unpredictable as Sasha's spelling. Presenting to you, your Vice Chair for the Continuous Crisis Committee!.",
-          "imgpath": "/assets/eb_pics/CCC/Sasha.png"
-        },
-        "moderator": null,
-        "na": false
-      }
-]}
+      "name": "Disarmament and International Security Committee (DISEC)",
+      "id": "disec",
+      "agenda": "Addressing Global Terrorism with Special Emphasis on the Middle East and North Africa (MENA) Region",
+      "chair": {
+        "name": "Anita Bhat",
+        "desc": "“If you want a picture of the future, imagine a boot stamping on a human face, forever.\" - George Orwell, 1984.\n\nAround six years of experience in MUN/Debate. She thrives in political and legal discussions. You may catch her listening to dad-rock when she's not knee-deep in academics.",
+        "imgpath": "/assets/eb_pics/DISEC/Anita B.jpg"
+      },
+      "vicechair": {
+        "name": "Vanya G",
+        "desc": "\"When power corrupts, poetry cleanses.\" – John F. Kennedy\n\nVanya has achieved several placements across MUNs including this very JMUN previously. She facilitates chaotic but highly productive debate and famously never needs a microphone. Outside MUNs you can find her drawing Spider‑Man and constantly travelling or plotting to live in London!",
+        "imgpath": "/assets/eb_pics/DISEC/Vanya G.jpg"
+      },
+      "vicechair2": {
+        "name": "Siddhant S",
+        "desc": "",
+        "imgpath": "/assets/eb_pics/DISEC/Siddhant S.jpg"
+      },
+      "moderator": null,
+      "na": false
+    },
+
+    {
+      "name": "All India Political Parties Meet (AIPPM)",
+      "id": "aippm",
+      "agenda": "Evaluating the scope of reasonable restrictions under Article 19 in relation to the enforcement of UAPA",
+      "chair": {
+        "name": "Miraya Singh",
+        "desc": "“Peace we want because there is another war to fight against poverty, disease and ignorance.” – Indira Gandhi\n\nAs a delegate, her fiery speeches were only rivaled by her vast handcrafted blocs and quick-witted responses. As a seasoned MUNer, Miraya recognizes the inevitable highs and lows of committee proceedings and will make sure that the delegates of AIPPM can experience the thrill of advocacy, research and public speaking that drew her into MUNs.",
+        "imgpath": "/assets/eb_pics/AIPPM/Miraya S.jpg"
+      },
+      "vicechair": {
+        "name": "Sarvesh J",
+        "desc": "“The strength and richness of democracy lie in the harmony of diverse voices” - Aloo Denish Obiero\n\nFrom raising the placard on instinct, to raising a placard on insight.\nPresenting to you the Vice Chair of the AIPPM, Sarvesh Anshul Jairath.",
+        "imgpath": "/assets/eb_pics/AIPPM/Sarvesh J.jpg"
+      },
+      "moderator": {
+        "name": "Ian J",
+        "desc": "“Better a diamond with a flaw than a pebble without” – Confucius\n\nSometimes it’s the imperfections in a person that give them their uniqueness and character. I appreciate value, even with all the imperfections, over superficial perfection. I believe that those who strive for virtue may stumble, or fall short at times, yet their effort holds much greater value than those who live a life without risk and failure.",
+        "imgpath": "/assets/eb_pics/AIPPM/Ian J.jpg"
+      },
+      "na": false
+    },
+
+    {
+      "name": "International Court of Justice (ICJ)",
+      "id": "icj",
+      "agenda": "Sovereignty over Pulau Ligitan and Pulau Sipadan (Indonesia vs Malaysia)",
+      "chair": {
+        "name": "Sparsh Bhowmick",
+        "desc": "\"Am I a hero? I really can’t say, but yes\"\n– Michael Scott\n\nSparsh Bhowmick began his MUN journey with a rocky start at GWHMUN 2022. However, with a strong belief in substance over style, he was able to turn things around and has proved his ability by chairing and securing placements at various conferences. Having chaired the ICJ on several occasions, Sparsh returns to chair the ICJ, looking forward to a competitive committee.",
+        "imgpath": "/assets/eb_pics/ICJ/Sparsh B.jpg"
+      },
+      "vicechair": {
+        "name": "Adharsh M + Aliza Raza",
+        "desc": "\"The greatest glory in living lies not in never falling, but in rising every time we fall\" – Nelson Mandela\n\n\"There can be no peace without justice, no justice without law, and no meaningful law without a court to decide what is just and lawful under any given circumstance\" – Benjamin Ferencz",
+        "imgpath": "/assets/eb_pics/ICJ/Adharsh Aliza.jpg"
+      },
+      "moderator": null,
+      "na": false
+    },
+
+    {
+      "name": "International Press Corps (IPC)",
+      "id": "ipc",
+      "agenda": "No agenda",
+      "chair": {
+        "name": "Avika M",
+        "desc": "“Always be yourself, unless you can be Batman. Then always be Batman.”\n\nWith her vibrant personality and confident attitude Avika has made a name for herself in the MUN community. Through her dynamic disposition she is sure to make an impression on every committee she walks into. Beware that her standards are as high as the black heels she wears. Committee will certainly never be dull with her presence. Presenting the Head Chair of the International Press Corps – Avika Malik.",
+        "imgpath": "/assets/eb_pics/IPC/Avika M.jpg"
+      },
+      "vicechair": {
+        "name": "Nishal R",
+        "desc": "fortunam meam ipse creo.",
+        "imgpath": "/assets/eb_pics/IPC/Nishal R.jpg"
+      },
+      "moderator": null,
+      "na": false
+    },
+
+    {
+      "name": "Continuous Crisis Committee (CCC)",
+      "id": "ccc",
+      "agenda": "The Cuban Missile Crisis – Freeze date: 27th October 1962",
+      "chair": {
+        "name": "Daksh Aggarwal",
+        "desc": "Transitioning from experiencing a terrible first MUN – GWHMUN 2022 – to achieving the title of Best Delegate at the same conference a year later, and proceeding to chair multiple committees, he has come a long way.\nIn any committee, he is a force to be reckoned with. From holding a session to kick Russia out of committee, to reviving the Soviet Union, his directives are nothing short of amazing (and a little psychotic), and never fail to wreak havoc in committee. His speeches are no different – he can effortlessly deliver enthralling speeches which shatter the confidence of everyone else in the room.",
+        "imgpath": "/assets/eb_pics/CCC/Daksh Aggarwal.jpg"
+      },
+      "vicechair": {
+        "name": "Siddhant G",
+        "desc": "",
+        "imgpath": "/assets/eb_pics/CCC/Siddhant G.jpg"
+      },
+      "moderator": {
+        "name": "Niketh R",
+        "desc": "\"It's just like in chess. Sometimes to win you have to sacrifice your king to win\" – Jake Peralta, Brooklyn 99",
+        "imgpath": "/assets/eb_pics/CCC/Niketh R.jpg"
+      },
+      "na": false
+    }
+  ]
+}
