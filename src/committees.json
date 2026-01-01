@@ -78,7 +78,7 @@
       },
       "vicechair": {
         "name": "Vanya G",
-        "desc": "\"When power corrupts, poetry cleanses.\" – John F. Kennedy\n\nVanya has achieved several placements across MUNs including this very JMUN previously. She facilitates chaotic but highly productive debate and famously never needs a microphone. Outside MUNs you can find her drawing Spider‑Man and constantly travelling or plotting to live in London!",
+        "desc": "\"When power corrupts, poetry cleanses.\" – John F. Kennedy\n\nVanya has achieved several placements across MUNs including this very JMUN previously. She facilitates chaotic but highly productive debate and famously never needs a microphone. Outside MUNs you can find her drawing Spider-Man and constantly travelling or plotting to live in London!",
         "imgpath": "/assets/eb_pics/DISEC/Vanya G.jpg"
       },
       "vicechair2": {
@@ -122,9 +122,14 @@
         "imgpath": "/assets/eb_pics/ICJ/Sparsh B.jpg"
       },
       "vicechair": {
-        "name": "Adharsh M + Aliza Raza",
-        "desc": "\"The greatest glory in living lies not in never falling, but in rising every time we fall\" – Nelson Mandela\n\n\"There can be no peace without justice, no justice without law, and no meaningful law without a court to decide what is just and lawful under any given circumstance\" – Benjamin Ferencz",
-        "imgpath": "/assets/eb_pics/ICJ/Adharsh Aliza.jpg"
+        "name": "Adharsh M",
+        "desc": "\"The greatest glory in living lies not in never falling, but in rising every time we fall\" – Nelson Mandela",
+        "imgpath": "/assets/eb_pics/ICJ/Adharsh.jpg"
+      },
+      "vicechair2": {
+        "name": "Aliza Raza",
+        "desc": "\"There can be no peace without justice, no justice without law, and no meaningful law without a court to decide what is just and lawful under any given circumstance\" – Benjamin Ferencz",
+        "imgpath": "/assets/eb_pics/ICJ/Aliza.jpg"
       },
       "moderator": null,
       "na": false
@@ -171,3 +176,9 @@
     }
   ]
 }
+
+
+
+
+
+
