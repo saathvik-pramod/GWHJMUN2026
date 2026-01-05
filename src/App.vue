@@ -25,7 +25,7 @@ watch(
                 <li><RouterLink to="/">Home</RouterLink></li>
                 <!--<li><RouterLink to="/team">Team</RouterLink></li>-->
                 <li><RouterLink to="/committees">Committees</RouterLink></li>
-                <li><RouterLink to="/resources">Resources</RouterLink></li>
+                <li><RouterLink to="/RESOURCES">Resources</RouterLink></li>
                 <li><RouterLink to="/registrations">Registrations</RouterLink></li>
                 <li></li>
             </ul>
@@ -40,7 +40,7 @@ watch(
                 <li><button class="nav-hide" @click="mobile_menu_shown=false"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></button></li>
                 <li><RouterLink to="/">Home</RouterLink></li>
                 <li><RouterLink to="/committees">Committees</RouterLink></li>
-                <li><RouterLink to="/resources">Resources</RouterLink></li>
+                <li><RouterLink to="/resources">RESOURCES</RouterLink></li>
                 <li><RouterLink to="/registrations">
                     <b>Registrations</b>
                 </RouterLink></li>
